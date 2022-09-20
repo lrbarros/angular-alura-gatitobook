@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "gatitobook"
+    }
+  },
+  "defaultProject": "gatitobook",
+  "cli": {
+    "analytics": false
+  }
 }
